@@ -1,5 +1,6 @@
 # TangoNavigator
-[Unity Demo project] Use Google Tango technology to help blind or visual impaired users to navigate without any indoor/outdoor map using acoustic and animated waypoints and vibration ques. 
+[Unity Augmented Reality + SLAM Demo project] Use Google Tango technology to help blind or visual impaired users to navigate without any indoor/outdoor map using acoustic and animated waypoints and vibration ques. 
+
 Build with Unity 5.5, Google Tango Biyelgee SDK. Tested with Google 'Yellowstone' Tablet and Lenovo Phab 2 Pro Smartphone. In close collaboration with Bartiméus Sonneheerdt, the Dutch institute for the blind and visually impaired.
 
 Features:
